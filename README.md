@@ -110,11 +110,8 @@ python main.py --scenario s_id --rulebook r_id
 -  r_id number of the rulebook in scenario s_id
 
 # Installation
-The Carla version used here is: [0.95](https://github.com/carla-simulator/carla/releases/tag/0.9.5)
-The Python version to be used for this is:
-```
-3.7.x
-```
+The Carla version used here is [0.95](https://github.com/carla-simulator/carla/releases/tag/0.9.5)
+The Python version to be used for this is 3.7.x.
 To install all required packages:
 ```
 \rulebook_carla
