@@ -1,7 +1,7 @@
 # Rulebook - Carla Simulator
 
 In this project a rulebook is designed that determines the behavior of an autonomous agent. For this purpose goal states and trajectories are generated in the local planner. The behavior planner receives the trajectories and applies the predefined rules. The rulebook is tested using scenarios in the Carla Simulator.
-
+<img src="https://i.imgur.com/eS0NaXS.gif"/>
 [Imgur](https://i.imgur.com/eS0NaXS.gif)
 
 # Scenario
