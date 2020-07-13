@@ -7,7 +7,7 @@ In this project a rulebook is designed that determines the behavior of an autono
 
 
 # Scenario
-A scenario describes the interaction of an autonomous agent with predefined obstacles. The course of this interaction is determined by the rulebook. All components for a scenario are defined in a JSON file.
+A scenario describes the interaction of an autonomous agent with predefined obstacles. The course of this interaction is determined by the rulebook. All components for a scenario are defined in a JSON file. Scenarios are located in the scenarios folder.
 ```json
 "scenario": {
 		"id": 1,
